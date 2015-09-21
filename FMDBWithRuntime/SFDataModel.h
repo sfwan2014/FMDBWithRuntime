@@ -7,6 +7,7 @@
 //
 
 #import "BaseModel.h"
+#import "SFDataManager.h"
 
 @interface SFDataModel : BaseModel
 -(void)insert;

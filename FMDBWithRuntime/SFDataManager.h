@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "FMDB.h"
 
 typedef void (^QueryFinishBlock) (FMResultSet *set);
 
