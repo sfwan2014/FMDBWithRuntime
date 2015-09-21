@@ -1,0 +1,2 @@
+FMDBWITHRUNTIME_HEADER_SEARCH_PATHS = $(SDKROOT)/usr/include/sqlite3.0
+FMDBWITHRUNTIME_OTHER_LDFLAGS = -l"sqlite3.0" -framework "Foundation" -framework "UIKit"
